@@ -6,3 +6,6 @@ Git was ready for his journey, prepared to face the trials ahead.
 adding some steps as minor change
 step 1
 step 2
+
+The first challenge Git faced was understanding the concepts of Version Control.
+
