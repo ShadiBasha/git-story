@@ -2,3 +2,7 @@ Chapter 3: Git's First Step into the World of Version Control
 With a heavy heart and a bag full of hopes, Git took his first step into the world unknown.
 
 Git was ready for his journey, prepared to face the trials ahead.
+
+adding some steps as minor change
+step 1
+step 2
